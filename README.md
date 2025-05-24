@@ -11,7 +11,7 @@ JavaScript moderno (ES6+)
 CSS
 Node.js + npm
 
-## 📦 Instalación y ejecución
+## Instalación y ejecución
 
 1. Clona este repositorio:
 git clone https://github.com/tuusuario/practica2-frontend.git
