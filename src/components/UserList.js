@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useGetUsersQuery, useGetUserQuery } from '../redux/apiSlice';
 import { Link } from 'react-router-dom';
+import './style.css';
 
 const UserList = () => {
   const [users, setUsers] = useState([]);
@@ -40,7 +41,7 @@ const UserList = () => {
   };
 
   return (
-    <div>
+    <div className='container-list'>
       <h2>Lista de Usuarios</h2>
 
       <input
