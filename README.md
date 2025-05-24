@@ -1,6 +1,6 @@
 # Prueba Técnica - Aplicación React para Gestión de Usuarios
 
-Este proyecto es una aplicación frontend desarrollada con REACT, como parte de una prueba técnica. Permite crear usuarios, iniciar sesión y listarlos desde una API.
+Este proyecto es una apliación frontend desarrollada CON REACT, como parte de una pruena técnica. Permite crear usuarios, iniciar sesión y listarlos desde una API.
 
 ## Tecnologías usadas
 
@@ -13,8 +13,8 @@ Node.js + npm
 
 ## Instalación y ejecución
 
-1. Clona este repositorio:
-git clone https://github.com/tuusuario/practica2-frontend.git
+1. Clone este repositorio:
+git clone https://github.com/MarianaTamayo377/Frontend-React
 cd practica2-frontend
 2. Instala dependencias
 este paso se hace en el cmd en la carpeta raiz 
